@@ -1,0 +1,36 @@
+body {
+background-image: url;
+ font-family:Times New Roman;
+ font-size:large;
+}
+.textcentred {
+text-align:center;
+}
+.textleft {
+text-align:left;
+}
+.textright {
+text-align:right;
+}
+.list {
+	list-style-type:circle;
+	text-align:left
+}
+h1 {
+	font-size: 30pt;
+	font-style:italic;
+}
+h2 {
+	font-size: 18pt;
+	font-style: italic;
+}
+table#leagues{
+width:60%; 
+border: 0px; 
+padding: 10px; 
+margin-left: auto; 
+margin-right: auto;
+}
+table#leagues tr{
+text-align:center;	
+}
