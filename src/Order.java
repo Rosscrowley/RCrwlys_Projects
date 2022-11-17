@@ -4,9 +4,9 @@ public class Order {
 	 private String itemName;
 	 
 	
-	public Order(String iN) {
+	public Order(String input) {
 		
-		this.itemName = iN;
+		this.itemName = input;
 		
 	}
 
